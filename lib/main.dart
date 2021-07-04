@@ -44,9 +44,6 @@ class _HomeContent extends State<HomeContent> {
 
   @override
   Widget build(BuildContext context) {
-    print('-----');
-    print(text);
-    print('-----');
     return Scaffold(
       appBar: AppBar(
         title: Text('按钮'),
